@@ -66,5 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-Clone Repository and run Composer install First
-Then php artisan serve
+1)Clone Repository and run Composer install First
+2)Copy and paste the folder in wamp www
+3)Then php artisan serve
+4)make sure it has env file in the folder otherwise it will show error on browser
