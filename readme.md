@@ -58,15 +58,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
-
-
-
-
-
-
-1)Clone Repository and run Composer install First
-2)Copy and paste the folder in wamp www
-3)Then php artisan serve
-4)make sure it has env file in the folder otherwise it will show error on browser
